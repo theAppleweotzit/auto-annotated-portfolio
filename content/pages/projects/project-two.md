@@ -3,7 +3,7 @@ type: ProjectLayout
 title: 'Empathy:'
 colors: colors-a
 date: '2021-12-20'
-client: Awesome client
+client: Why This Matters
 description: ' I believe in understanding and empowering those who feel unheard.'
 featuredImage:
   type: ImageBlock
