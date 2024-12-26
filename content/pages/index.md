@@ -19,9 +19,17 @@ sections:
       professional journey spans diverse fields, but at the heart of it all is
       my unwavering focus on Family Court advocacy and support.
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      With over 13 years of experience working in and around the Family Courts
+      of England and Wales, I specialise in guiding and empowering
+      individuals—particularly men—navigating the complex terrain of family
+      breakdown and legal proceedings. As a McKenzie Friend, I provide practical
+      support, education, and strategies rooted in compassion, resilience, and
+      child-focused outcomes. Beyond Family Court, I bring my technical
+      expertise as a developer and digital artist to create innovative solutions
+      that drive change, enhance workflows, and inspire creativity. Whether I’m
+      crafting visually stunning digital art, consulting on complex projects, or
+      designing tools for better outcomes in legal settings, my goal is always
+      to make a meaningful difference.
     styles:
       self:
         height: auto
